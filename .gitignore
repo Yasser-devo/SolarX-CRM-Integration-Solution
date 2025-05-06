@@ -1,0 +1,7 @@
+bin/
+obj/
+*.dll.config
+*.user
+
+*.config
+!Web.config.template
